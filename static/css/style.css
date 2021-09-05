@@ -1,0 +1,15 @@
+:root{
+    --bs-danger:purple;
+}
+.navbar-brand{
+    font-weight: 600;
+}
+.logo-margin{
+    margin-left: 3rem!important;
+}
+.btn-danger{
+    background-color: var(--bs-danger);
+}
+.btn-danger:hover{
+    background-color: rgb(173, 0, 173);
+}
